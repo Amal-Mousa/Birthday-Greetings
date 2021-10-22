@@ -1,6 +1,6 @@
 # Birthday-Greetings
 ## Visit Site:boom:
 **[Click Here](http://Amal-Mousa.github.io/Birthday-Greetings)**
-## Used Skills:exclamation:
+## Used Skills: :exclamation:
 * html
 * css
