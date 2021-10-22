@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: carattere;
+    src: url('../font/Carattere-Regular.ttf');
+}
+body{
+    background: #008888;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.card{
+    background: #fdfdfd;
+    padding: 10px;
+    border-radius: 4px;
+    height: 85vh;
+    width: 70vw;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 3px 3px #04506cb8, -1px -1px 3px 3px #0058628c;
+}
+.personal{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%; 
+    margin: 30px;
+    box-shadow: 1px 1px 2px 2px #c9acacb8, -1px -1px 2px 2px #cbb2b28c;
+}
+.text{
+    text-align: center;
+    margin-left: 10px;
+    font-family:  carattere;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.head{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.words{
+    font-size: 26px;
+}
+.emoji{
+    font-size: 17px;
+}
+.name{
+    opacity: .8;
+    margin: 10px 0;
+    font-size: 23px;
+}
