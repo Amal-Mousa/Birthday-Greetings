@@ -5,4 +5,4 @@
 * html
 * css
 ## Image:
-![](img/burthday greeting.png)
+![](img/burthday%20greeting.png)
